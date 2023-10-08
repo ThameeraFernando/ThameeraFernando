@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thameerafernando" alt="thameerafernando" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
-
 - 📫 How to reach me **sithnuwan111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
